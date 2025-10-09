@@ -102,7 +102,7 @@ a:hover {
             grid-template-columns: 67.5% 27.5%;
             gap: 5%;
             input {
-                padding: 1.5rem;
+                padding: 1rem;
                 outline: none;
                 width: 100%;
                 border-radius: 0.5rem;
@@ -410,6 +410,7 @@ section {
     }
 }
 }
+
 
 
 
